@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 50px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.profile-picture {
+    border: 5px solid #007bff;
+    width: 150px;
+    height: 150px;
+}
+
+.contact-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.skills .progress {
+    height: 30px;
+    margin-bottom: 20px;
+}
